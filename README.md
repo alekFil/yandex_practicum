@@ -18,30 +18,37 @@
 
 
 ## Применение ML в фермерском хозяйстве
+[К содержанию](#содержание)
 Ссылка на .ipynb файл - [agriculture_bin_classification.ipynb](agriculture_bin_classification.ipynb)
+
 <br/>
 
 ## Применение ML (классификация) в E-Commerce
+[К содержанию](#содержание)
 Ссылка на .ipynb файл - [ecommerce_bin_classification.ipynb](ecommerce_bin_classification.ipynb)
 
 <br/>
 
 ## Применение ML в HR
+[К содержанию](#содержание)
 Ссылка на .ipynb файл - [ecommerce_bin_classification.ipynb](ecommerce_bin_classification.ipynb)
 
 <br/>
 
 ## Применение ML в нефтянной промышленности
+[К содержанию](#содержание)
 Ссылка на .ipynb файл - [fuel_regression.ipynb](fuel_regression.ipynb)
 
 <br/>
 
 ## Применение ML в сфере услуг такси
+[К содержанию](#содержание)
 Ссылка на .ipynb файл -  [taxi_timeseries.ipynb](taxi_timeseries.ipynb)
 
 <br/>
 
 ## Применение ML (регрессия) в E-Commerce
+[К содержанию](#содержание)
 Ссылка на .ipynb файл - [taxi_timeseries.ipynb](taxi_timeseries.ipynb)
 
 <br/>
